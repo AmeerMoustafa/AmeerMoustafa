@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🌊 Hello World
+
+## An aspiring web developer
 
 <!--
 **Ameer-Moustafa/Ameer-Moustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 React, Python and Typescript
+💬 Ask me about the Linux, terminals, networking and pentesting
+📫 Reach me at Ameer.moustafa1@gmail.com
