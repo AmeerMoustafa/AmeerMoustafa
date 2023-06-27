@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 React, Python and Typescript
-💬 Ask me about the Linux, terminals, networking and pentesting
-📫 Reach me at Ameer.moustafa1@gmail.com
+- 🌱 React, Python and Typescript
+- 💬 Ask me about the Linux, terminals, networking and pentesting
+- 📫 Reach me at Ameer.moustafa1@gmail.com
+- ⚡ I love reading, horror, guitar and fighting games
