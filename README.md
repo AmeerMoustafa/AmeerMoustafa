@@ -1,6 +1,6 @@
-### 🌊 Hello World
+# 🌊 Hello World
 
-## An aspiring web developer
+## ✨ An aspiring web developer
 
 <!--
 **Ameer-Moustafa/Ameer-Moustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
