@@ -1,8 +1,14 @@
 # 🌊 Hello World
 
-## ✨ An aspiring web developer
+## ✨ Web Developer / Penetration Tester ✨
+
+![](https://cdna.artstation.com/p/assets/images/images/060/558/020/original/anna-teather-fantasy-bk-anim.gif?1678825942)
+
 
 <!--
+
+I'M KEEPING THESE COMMENTS FOR FUTURE INSPIRATION OKAY.
+
 **Ameer-Moustafa/Ameer-Moustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 React, Python and Typescript
+- 🌱 I'm currently learning React, Python and Typescript
 - 💬 Ask me about the Linux, terminals, networking and pentesting
 - 📫 Reach me at Ameer.moustafa1@gmail.com
 - ⚡ I love reading, horror, guitar and fighting games
