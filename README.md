@@ -29,7 +29,6 @@ I'm a Penetration Tester who is currently learning web development in hopes to b
 
 - 🌱 I'm currently learning React, Python and Typescript
 - 💬 Ask me about the Linux, terminals, networking and pentesting
-- 📫 Reach me at Ameer.moustafa1@gmail.com
 - ⚡ I love reading, horror, guitar and fighting games
 
 # Skills:
