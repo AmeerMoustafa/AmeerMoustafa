@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 I'm a Penetration Tester who is currently learning web development in hopes to build, contribute to open source and become a better hacker through code.
 
-- 🌱 I'm currently learning PHP and backend development
+- 🌱 I'm currently learning Node and backend development
 - 💬 Ask me about the Linux, terminals, networking and pentesting
 - ⚡ I love reading, horror, guitar and fighting games
 
