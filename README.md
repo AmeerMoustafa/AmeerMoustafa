@@ -29,7 +29,7 @@ I'm a Penetration Tester who is currently learning web development in hopes to b
 
 - 🌱 I'm currently learning Node and backend development
 - 💬 Ask me about the Linux, terminals, networking and pentesting
-- ⚡ I love reading, horror, guitar and fighting games
+- ⚡ I love reading, horror, guitar, fighting games, grappling and MMA
 
 # Skills:
 
