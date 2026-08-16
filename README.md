@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 # Overview:
 
-I'm a Penetration Tester who is currently learning web development in hopes to build, contribute to open source and become a better hacker through code.
+I'm a Penetration Tester who has dabbled in fullstack, back to building offensive tooling now.
 
-- 🌱 I'm currently learning Node and backend development
+- 🌱 C and working towards my CCNA
 - 💬 Ask me about the Linux, terminals, networking and pentesting
 - ⚡ I love reading, horror, guitar, fighting games, grappling and MMA
 
